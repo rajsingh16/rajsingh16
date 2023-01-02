@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raj</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Raj</h1>
 <h3 align="center">A voracious reader and writer who enjoys science and math with a desire to expand its application and a passion for computational development.</h3>
 <image align ="right" alt="coding"width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
