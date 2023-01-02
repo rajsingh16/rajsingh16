@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Raj</h1>
-<h3 align="center">A passionate developer who likes exploring the tech world.</h3>
-
-<image align ="right" alt='coding"width="400" src="https://www.google.com/url?sa=i&url="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<h3 align="center">A voracious reader and writer who enjoys science and math with a desire to expand its application and a passion for computational development.</h3>
+<image align ="right" alt="coding"width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajsingh16&label=Profile%20views&color=0e75b6&style=flat" alt="rajsingh16" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajsingh16" alt="rajsingh16" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **audio detection using Artificial Intelligence**
 
@@ -49,8 +45,16 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/nvry1610a"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nvry1610a" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajsingh16&show_icons=true&locale=en&layout=compact" alt="rajsingh16" /></p>
+<div align=center>
+  <img src= "https://github-readme-stats.vercel.app/api?username=rajsingh16&theme=radical&show_icons=true&count_private=true&size=small" width=400px height=250px>
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajsingh16&theme=radical" width=400px height=250px>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajsingh16&layout=compact&langs_count=10&theme=radical" width=400px height=250px>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajsingh16&show_icons=true&locale=en" alt="rajsingh16" /></p>
+<hr size="2">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajsingh16&" alt="rajsingh16" /></p>
+<img src="https://activity-graph.herokuapp.com/graph?username=rajsingh16&theme=redical">
+
+<hr size="2">
