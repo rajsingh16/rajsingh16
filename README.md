@@ -5,13 +5,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajsingh16&label=Profile%20views&color=0e75b6&style=flat" alt="rajsingh16" /> </p>
 
 
-- 🔭 I’m currently working on **audio detection using Artificial Intelligence**
+- 🔭 I’m currently working on **Machines**
 
-- 🌱 I’m currently learning **java , C#, react.js**
+- 🌱 I’m currently learning **java , C#, react.js** P.S-Not updated
 
-- 💬 Ask me about **python , Machine learning , HTML ,CSS**
+- 💬 Ask me about **python , Machine learning , HTML ,CSS** p P.S- Anything
 
-- 📫 How to reach me **nv.ry1610@gmail.com**
+- 📫 How to reach me **nv.ry1610@gmail.com** 
 
 - ⚡ Fun fact **Life is great - Dexter Morgan**
 
