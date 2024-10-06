@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **nv.ry1610@gmail.com** 
 
-- ⚡ Fun fact **Life is great - Dexter Morgan**
+- ⚡ Fun fact **Life is great**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
